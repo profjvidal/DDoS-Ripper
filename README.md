@@ -24,8 +24,6 @@ Seu objetivo educacional é auxiliar estudantes, professores e pesquisadores a c
 
 ![dddd](https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
 
-<a href="https://ipstress.st/register?ref=ripper"><img src="https://github.com/user-attachments/assets/83dfc62c-e85c-48a3-b540-7373680196d8" width="728" height="90" alt="aeza"></a>
-
 ### 🎯 Objetivos educacionais
 
 - Compreender o conceito e o funcionamento de ataques DDoS.
